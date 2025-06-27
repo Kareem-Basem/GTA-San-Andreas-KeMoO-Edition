@@ -1,6 +1,5 @@
 GTA: San Andreas – KeMoO Edition (V. 5) 🎮
 
-Introduction
 Welcome to the KeMoO Edition (V. 5) of Grand Theft Auto: San Andreas! This mod revives the classic 1990s spirit with a modern twist, enhancing graphics, gameplay, and audio while fully respecting Rockstar's rights. The KeMoO Edition provides an innovative experience in the world of San Andreas, designed to be immersive and exciting.
 Main Changes
 Graphics Enhancement
