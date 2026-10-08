@@ -7,14 +7,16 @@
 ![Version](https://img.shields.io/badge/Version-5.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%207%2F8%2F10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Resolution](https://img.shields.io/badge/Resolution-up%20to%204K-success?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Size-20%20GB-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-<img src="images/0.png" alt="GTA San Andreas KeMoO Edition cover" width="100%">
+<!-- 📸 Replace with your own banner from the /images folder -->
+<!-- <img src="images/banner.png" alt="GTA San Andreas KeMoO Edition" width="100%"> -->
 
 **An immersive total-conversion mod that upgrades graphics, gameplay, audio and the entire map of Grand Theft Auto: San Andreas, while fully respecting Rockstar's rights.**
 
-[Features](#-features) · [Screenshots](#-screenshots) · [Installation](#-installation-guide) · [Requirements](#-system-requirements) · [Guides](#-guides--documents) · [Tips](#-tips-for-optimal-performance) · [Modding](#-learn-to-mod) · [Contact](#-contact)
+[Features](#-features) · [Installation](#-installation-guide) · [Requirements](#-system-requirements) · [Tips](#-tips-for-optimal-performance) · [Guides](#-guides--documents) · [Modding](#-learn-to-mod) · [Contact](#-contact)
 
 </div>
 
@@ -44,30 +46,15 @@ This mod revives the classic **1990s spirit** with a modern twist. It enhances t
 
 ## 📸 Screenshots
 
+<!-- Put your screenshots in the /images folder, then uncomment and fix the file names -->
+<!--
 <p align="center">
-  <img src="images/1.png" alt="San Andreas gameplay screenshot 1" width="49%">
-  <img src="images/2.png" alt="San Andreas gameplay screenshot 2" width="49%">
+  <img src="images/screenshot1.png" width="48%">
+  <img src="images/screenshot2.png" width="48%">
 </p>
-<p align="center">
-  <img src="images/3.png" alt="San Andreas gameplay screenshot 3" width="49%">
-  <img src="images/4.png" alt="San Andreas gameplay screenshot 4" width="49%">
-</p>
+-->
 
-<details>
-<summary>View more screenshots</summary>
-
-<p align="center">
-  <img src="images/5.png" alt="San Andreas gameplay screenshot 5" width="49%">
-  <img src="images/6.png" alt="San Andreas gameplay screenshot 6" width="49%">
-</p>
-<p align="center">
-  <img src="images/7.png" alt="San Andreas gameplay screenshot 7" width="49%">
-  <img src="images/8.png" alt="San Andreas gameplay screenshot 8" width="49%">
-</p>
-
-</details>
-
-Browse every image in the [images folder](./images).
+> _Screenshots coming soon._
 
 ---
 
@@ -113,8 +100,7 @@ Browse every image in the [images folder](./images).
 |---|---|
 | 🇬🇧 GTA San Andreas Guide (English) | [Open PDF](./GTA%20San%20Andreas%20(en).pdf) |
 | 🇪🇬 دليل GTA San Andreas (العربي) | [Open PDF](./GTA%20San%20Andreas%20(AR).pdf) |
-| 🗺️ Hidden Places Guide | [Open PDF](./Hidden%20places.pdf) |
-| 🛠️ Create Your Own GTA SA Mod | [Open guide](./How%20to%20Create%20Your%20Own%20GTA%20SA) |
+| 🕵️ Hidden Places | [Open PDF](./Hidden%20places.pdf) |
 
 ---
 
