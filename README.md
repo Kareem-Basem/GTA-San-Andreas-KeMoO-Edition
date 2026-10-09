@@ -46,23 +46,22 @@ This mod revives the classic **1990s spirit** with a modern twist. It enhances t
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/1.png" alt="GTA San Andreas gameplay screenshot 1" width="49%">
   <img src="images/2.png" alt="GTA San Andreas gameplay screenshot 2" width="49%">
+  <img src="images/3.png" alt="GTA San Andreas gameplay screenshot 3" width="49%">
 </p>
 
 <details>
 <summary>View more screenshots</summary>
 
 <p align="center">
-  <img src="images/3.png" alt="GTA San Andreas gameplay screenshot 3" width="49%">
   <img src="images/4.png" alt="GTA San Andreas gameplay screenshot 4" width="49%">
-</p>
-<p align="center">
   <img src="images/5.png" alt="GTA San Andreas gameplay screenshot 5" width="49%">
-  <img src="images/6.png" alt="GTA San Andreas gameplay screenshot 6" width="49%">
 </p>
 <p align="center">
+  <img src="images/6.png" alt="GTA San Andreas gameplay screenshot 6" width="49%">
   <img src="images/7.png" alt="GTA San Andreas gameplay screenshot 7" width="49%">
+</p>
+<p align="center">
   <img src="images/8.png" alt="GTA San Andreas gameplay screenshot 8" width="49%">
 </p>
 
